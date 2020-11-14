@@ -5,4 +5,4 @@ In this project, we developed a code which uses Natural language processing to f
 
 ### 1. Please play with the training code (on Google Colab):
 
-- [Pytorch_vision_transferlearning_vgg16.ipynb](https://colab.research.google.com/drive/1G8DdUfmcpAEEdp4hc1GysumJs3fEsMq2)  [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Au-ZpwELQndfc-gSjH4qCV_wL5mLfif-?usp=sharing)
+- [Tokyo2020_NLP.ipynb](https://colab.research.google.com/drive/1G8DdUfmcpAEEdp4hc1GysumJs3fEsMq2)  [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Au-ZpwELQndfc-gSjH4qCV_wL5mLfif-?usp=sharing)
